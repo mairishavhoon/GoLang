@@ -1,2 +1,2 @@
 language = "go"
-run = "go run hello.go"
+run = "go run mixed.go"
